@@ -23,7 +23,7 @@ pip install numpy pandas scikit-learn gradio
 
 ## Usage
 
-```To run the model, simply run the heart_disease_prediction.py script:```
+```To run the model, simply run the model.ipynb file```
 
 This will train the logistic regression model on the dataset and launch a Gradio interface where you can input the medical attributes of a patient and get a prediction of whether they have heart disease or not.
 
